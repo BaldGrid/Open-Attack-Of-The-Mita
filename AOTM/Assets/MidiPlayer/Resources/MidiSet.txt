@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MidiSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SoundFonts>
+    <SoundFontInfo>
+      <Name>GeneralUser GS v1.471</Name>
+      <PatchCount>269</PatchCount>
+      <WaveCount>864</WaveCount>
+      <WaveSize>35262462</WaveSize>
+      <SF2Path>C:/Users/thier/AppData/LocalLow/MusIT/ScenesDemo\SoundFont\GeneralUser GS v1.471.sf2</SF2Path>
+    </SoundFontInfo>
+  </SoundFonts>
+  <IndexSelectedSF>0</IndexSelectedSF>
+  <MidiFiles>
+    <string>_ACG_时空之轮-BOSS场景2</string>
+    <string>BossIntro</string>
+    <string>BossIntro_Unmodified</string>
+    <string>BossLoop</string>
+    <string>BossLoop_DEMO</string>
+    <string>BossLoop_Unmodified</string>
+    <string>DanceV0_5</string>
+    <string>KuXingShan Trouble</string>
+    <string>NightClass Trouble</string>
+    <string>nihao</string>
+    <string>partytime</string>
+    <string>playtime</string>
+    <string>REQUIEM</string>
+    <string>school</string>
+    <string>Schoolhouse Trouble</string>
+    <string>shithouse drum loop</string>
+    <string>shithouse loop</string>
+    <string>SMB1 Hack OST - Boss Fight Act 2</string>
+  </MidiFiles>
+</MidiSet>

@@ -1,0 +1,242 @@
+Converting script [1 / 30]	[\Scripts\Assembly-CSharp\CameraScript.cs]
+	Fragments : 3
+		[ 0] : Line:   45	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   45	InputMethod   GetKeyDown          	(KeyCode.E)
+		[ 2] : Line:   52	InputMethod   GetButton           	("Look Behind")
+
+Converting script [2 / 30]	[\Scripts\Assembly-CSharp\ClickableTest.cs]
+	Fragments : 2
+		[ 0] : Line:   11	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   11	InputProperty mousePosition       
+
+Converting script [3 / 30]	[\Scripts\Assembly-CSharp\CursorControllerScript.cs]
+	Fragments : 4
+		[ 0] : Line:   11	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   12	Other mod.	[Cursor.visible]
+		[ 2] : Line:   17	Other mod.	[Cursor.lockState]
+		[ 3] : Line:   18	Other mod.	[Cursor.visible]
+
+Converting script [4 / 30]	[\Scripts\Assembly-CSharp\DoorScript.cs]
+	Fragments : 2
+		[ 0] : Line:   84	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   84	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [5 / 30]	[\Scripts\Assembly-CSharp\EndlessNotebookScript.cs]
+	Fragments : 1
+		[ 0] : Line:   21	InputMethod   GetMouseButtonDown  	(0)
+
+Converting script [6 / 30]	[\Scripts\Assembly-CSharp\ExitButtonScript.cs]
+	Fragments : 1
+		[ 0] : Line:   22	Other mod.	[Cursor.lockState]
+
+Converting script [7 / 30]	[\Scripts\Assembly-CSharp\GameControllerScript.cs]
+	Fragments : 10
+		[ 0] : Line:  270	InputMethod   GetButtonDown       	("Pause")
+		[ 1] : Line:  281	InputMethod   GetKeyDown          	(KeyCode.Y)
+		[ 2] : Line:  285	InputMethod   GetKeyDown          	(KeyCode.N)
+		[ 3] : Line:  293	InputMethod   GetMouseButtonDown  	(1)
+		[ 4] : Line:  293	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 5] : Line:  297	InputMethod   GetAxis             	("Mouse ScrollWheel")
+		[ 6] : Line:  301	InputMethod   GetAxis             	("Mouse ScrollWheel")
+		[ 7] : Line:  307	InputMethod   GetKeyDown          	(KeyCode.Alpha1)
+		[ 8] : Line:  312	InputMethod   GetKeyDown          	(KeyCode.Alpha2)
+		[ 9] : Line:  317	InputMethod   GetKeyDown          	(KeyCode.Alpha3)
+
+Converting script [8 / 30]	[\Scripts\Assembly-CSharp\GlitchGame.cs]
+	Fragments : 2
+		[ 0] : Line:   94	InputMethod   GetKeyDown          	(KeyCode.Return)
+		[ 1] : Line:   94	InputMethod   GetKeyDown          	(KeyCode.Return)
+
+Converting script [9 / 30]	[\Scripts\Assembly-CSharp\InputTypeManager.cs]
+	Fragments : 3
+		[ 0] : Line:   11	InputProperty simulateMouseWithTouches
+		[ 1] : Line:   25	InputProperty touchCount          
+		[ 2] : Line:   29	InputProperty anyKeyDown          
+
+Converting script [10 / 30]	[\Scripts\Assembly-CSharp\MathGameScript.cs]
+	Fragments : 2
+		[ 0] : Line:  126	InputMethod   GetKeyDown          	(KeyCode.Return)
+		[ 1] : Line:  126	InputMethod   GetKeyDown          	(KeyCode.Return)
+
+Converting script [11 / 30]	[\Scripts\Assembly-CSharp\MenuController.cs]
+	Fragments : 1
+		[ 0] : Line:   30	InputMethod   GetButtonDown       	("Cancel")
+
+Converting script [12 / 30]	[\Scripts\Assembly-CSharp\NotebookScript.cs]
+	Fragments : 2
+		[ 0] : Line:   54	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   54	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [13 / 30]	[\Scripts\Assembly-CSharp\OptionsManager.cs]
+	Fragments : 3
+		[ 0] : Line:  110	Other mod.	[Screen.fullScreen]
+		[ 1] : Line:  118	Other mod.	[Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen)]
+		[ 2] : Line:  118	Other mod.	[Screen.fullScreen]
+
+Converting script [14 / 30]	[\Scripts\Assembly-CSharp\PickupScript.cs]
+	Fragments : 2
+		[ 0] : Line:   30	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   30	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [15 / 30]	[\Scripts\Assembly-CSharp\PlayerMovement.cs]
+	Fragments : 4
+		[ 0] : Line:   38	InputMethod   GetButton           	("Run")
+		[ 1] : Line:   47	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   58	InputMethod   GetAxis             	("Strafe")
+		[ 3] : Line:   59	InputMethod   GetAxis             	("Forward")
+
+Converting script [16 / 30]	[\Scripts\Assembly-CSharp\PlayerScript.cs]
+	Fragments : 5
+		[ 0] : Line:  168	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:  176	InputMethod   GetAxis             	("Forward")
+		[ 2] : Line:  177	InputMethod   GetAxis             	("Strafe")
+		[ 3] : Line:  180	InputMethod   GetButton           	("Run")
+		[ 4] : Line:  249	InputMethod   GetAxisRaw          	("Run")
+
+Converting script [17 / 30]	[\Scripts\Assembly-CSharp\SleepingPrize.cs]
+	Fragments : 2
+		[ 0] : Line:   39	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   39	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [18 / 30]	[\Scripts\Assembly-CSharp\ThrowableSpoopBalloon.cs]
+	Fragments : 2
+		[ 0] : Line:   65	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   65	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [19 / 30]	[\Scripts\Assembly-CSharp\UnknownPriProjectile.cs]
+	Fragments : 2
+		[ 0] : Line:   71	InputMethod   GetMouseButtonDown  	(1)
+		[ 1] : Line:   71	InputMethod   GetKeyDown          	(KeyCode.Q)
+
+Converting script [20 / 30]	[\Scripts\Assembly-CSharp\WarningScreenScript.cs]
+	Fragments : 1
+		[ 0] : Line:   12	InputProperty anyKeyDown          
+
+Converting script [21 / 30]	[\MidiPlayer\Demo\FreeMVP\TheSimplestMidiGenerator.cs]
+	Fragments : 2
+		[ 0] : Line:   42	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:   52	InputMethod   GetKeyUp            	(KeyCode.Space)
+
+Converting script [22 / 30]	[\MidiPlayer\Demo\FreeMVP\TheSimplestNotesPlayer.cs]
+	Fragments : 2
+		[ 0] : Line:   76	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:   86	InputMethod   GetKeyUp            	(KeyCode.Space)
+
+Converting script [23 / 30]	[\MidiPlayer\Demo\FreeMVP\TheSimplestRandomPlayer.cs]
+	Fragments : 2
+		[ 0] : Line:   75	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:   86	InputMethod   GetKeyUp            	(KeyCode.Space)
+
+Converting script [24 / 30]	[\MidiPlayer\Scripts\MPTKUtil\CustomStyle.cs]
+	Fragments : 1
+		[ 0] : Line:  211	Other mod.	[Screen.dpi]
+
+Converting script [25 / 30]	[\Scripts\Assembly-CSharp\MaterialKit\DpCanvasScaler.cs]
+	Fragments : 1
+		[ 0] : Line:  132	Other mod.	[Screen.dpi]
+
+Converting script [26 / 30]	[\MidiPlayer\Demo\FreeDemos\Script\ExtendedFlycam.cs]
+	Fragments : 13
+		[ 0] : Line:   62	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 1] : Line:   62	InputMethod   GetKey              	(KeyCode.RightShift)
+		[ 2] : Line:   64	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[ 3] : Line:   64	InputMethod   GetKey              	(KeyCode.RightControl)
+		[ 4] : Line:   67	InputMethod   GetAxis             	("Mouse X")
+		[ 5] : Line:   68	InputMethod   GetAxis             	("Mouse Y")
+		[ 6] : Line:   75	InputMethod   GetAxis             	("Vertical")
+		[ 7] : Line:   76	InputMethod   GetAxis             	("Horizontal")
+		[ 8] : Line:   78	InputMethod   GetKey              	(KeyCode.Q)
+		[ 9] : Line:   79	InputMethod   GetKey              	(KeyCode.E)
+		[10] : Line:   81	InputMethod   GetKeyDown          	(KeyCode.End)
+		[11] : Line:   84	Other mod.	[Cursor.lockState]
+		[12] : Line:   84	Other mod.	[Cursor.lockState]
+
+Converting script [27 / 30]	[\MidiPlayer\Demo\FreeDemos\Script\FlyCamera.cs]
+	Fragments : 10
+		[ 0] : Line:   31	InputProperty mousePosition       
+		[ 1] : Line:   35	InputProperty mousePosition       
+		[ 2] : Line:   39	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 3] : Line:   55	InputMethod   GetKey              	(KeyCode.V)
+		[ 4] : Line:   72	InputMethod   GetKey              	(KeyCode.W)
+		[ 5] : Line:   76	InputMethod   GetKey              	(KeyCode.S)
+		[ 6] : Line:   80	InputMethod   GetKey              	(KeyCode.A)
+		[ 7] : Line:   84	InputMethod   GetKey              	(KeyCode.D)
+		[ 8] : Line:   88	InputMethod   GetKey              	(KeyCode.R)
+		[ 9] : Line:   92	InputMethod   GetKey              	(KeyCode.F)
+
+Converting script [28 / 30]	[\MidiPlayer\Demo\FreeDemos\Script\FlyOrMoveController.cs]
+	Fragments : 11
+		[ 0] : Line:   50	InputMethod   GetButton           	("Fire2")
+		[ 1] : Line:   53	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   54	InputMethod   GetAxis             	("Mouse Y")
+		[ 3] : Line:   66	InputMethod   GetKey              	(KeyCode.W)
+		[ 4] : Line:   66	InputMethod   GetKey              	(KeyCode.UpArrow)
+		[ 5] : Line:   67	InputMethod   GetKey              	(KeyCode.S)
+		[ 6] : Line:   67	InputMethod   GetKey              	(KeyCode.DownArrow)
+		[ 7] : Line:   68	InputMethod   GetKey              	(KeyCode.A)
+		[ 8] : Line:   68	InputMethod   GetKey              	(KeyCode.LeftArrow)
+		[ 9] : Line:   69	InputMethod   GetKey              	(KeyCode.D)
+		[10] : Line:   69	InputMethod   GetKey              	(KeyCode.RightArrow)
+
+Converting script [29 / 30]	[\MidiPlayer\Demo\FreeDemos\Script\TestMidiStream.cs]
+	Fragments : 6
+		[ 0] : Line: 1260	InputMethod   GetKeyDown          	(KeyCode.Alpha1 + key)
+		[ 1] : Line: 1277	InputMethod   GetKeyUp            	(KeyCode.Alpha1 + key)
+		[ 2] : Line: 1287	InputMethod   GetKeyDown          	(KeyCode.DownArrow)
+		[ 3] : Line: 1287	InputMethod   GetKeyDown          	(KeyCode.UpArrow)
+		[ 4] : Line: 1289	InputMethod   GetKeyDown          	(KeyCode.DownArrow)
+		[ 5] : Line: 1290	InputMethod   GetKeyDown          	(KeyCode.UpArrow)
+
+Converting script [30 / 30]	[\MidiPlayer\Demo\FreeDemos\Script\ExternalComponents\FlyingCamera.cs]
+	Fragments : 15
+		[ 0] : Line:   76	InputMethod   GetMouseButtonDown  	(1)
+		[ 1] : Line:   80	InputMethod   GetMouseButtonUp    	(1)
+		[ 2] : Line:   88	InputMethod   GetAxis             	("Mouse X")
+		[ 3] : Line:   89	InputMethod   GetAxis             	("Mouse Y")
+		[ 4] : Line:   97	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 5] : Line:  124	InputMethod   GetKey              	(KeyCode.Q)
+		[ 6] : Line:  128	InputMethod   GetKey              	(KeyCode.E)
+		[ 7] : Line:  146	InputMethod   GetKey              	(KeyCode.W)
+		[ 8] : Line:  146	InputMethod   GetKey              	(KeyCode.UpArrow)
+		[ 9] : Line:  150	InputMethod   GetKey              	(KeyCode.S)
+		[10] : Line:  150	InputMethod   GetKey              	(KeyCode.DownArrow)
+		[11] : Line:  154	InputMethod   GetKey              	(KeyCode.A)
+		[12] : Line:  154	InputMethod   GetKey              	(KeyCode.LeftArrow)
+		[13] : Line:  158	InputMethod   GetKey              	(KeyCode.D)
+		[14] : Line:  158	InputMethod   GetKey              	(KeyCode.RightArrow)
+
+
+30 scripts modified!
+Overwriting actual scripts...
+	[0 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\CameraScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\CameraScript.cs]
+	[1 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\ClickableTest.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\ClickableTest.cs]
+	[2 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\CursorControllerScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\CursorControllerScript.cs]
+	[3 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\DoorScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\DoorScript.cs]
+	[4 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\EndlessNotebookScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\EndlessNotebookScript.cs]
+	[5 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\ExitButtonScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\ExitButtonScript.cs]
+	[6 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\GameControllerScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\GameControllerScript.cs]
+	[7 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\GlitchGame.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\GlitchGame.cs]
+	[8 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\InputTypeManager.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\InputTypeManager.cs]
+	[9 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\MathGameScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\MathGameScript.cs]
+	[10 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\MenuController.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\MenuController.cs]
+	[11 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\NotebookScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\NotebookScript.cs]
+	[12 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\OptionsManager.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\OptionsManager.cs]
+	[13 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\PickupScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\PickupScript.cs]
+	[14 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\PlayerMovement.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\PlayerMovement.cs]
+	[15 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\PlayerScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\PlayerScript.cs]
+	[16 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\SleepingPrize.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\SleepingPrize.cs]
+	[17 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\ThrowableSpoopBalloon.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\ThrowableSpoopBalloon.cs]
+	[18 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\UnknownPriProjectile.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\UnknownPriProjectile.cs]
+	[19 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\WarningScreenScript.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\WarningScreenScript.cs]
+	[20 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeMVP\TheSimplestMidiGenerator.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeMVP\TheSimplestMidiGenerator.cs]
+	[21 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeMVP\TheSimplestNotesPlayer.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeMVP\TheSimplestNotesPlayer.cs]
+	[22 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeMVP\TheSimplestRandomPlayer.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeMVP\TheSimplestRandomPlayer.cs]
+	[23 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Scripts\MPTKUtil\CustomStyle.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Scripts\MPTKUtil\CustomStyle.cs]
+	[24 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\Scripts\Assembly-CSharp\MaterialKit\DpCanvasScaler.cs] to [E:/NightClassDecompileRemastered/Assets/\Scripts\Assembly-CSharp\MaterialKit\DpCanvasScaler.cs]
+	[25 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeDemos\Script\ExtendedFlycam.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeDemos\Script\ExtendedFlycam.cs]
+	[26 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeDemos\Script\FlyCamera.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeDemos\Script\FlyCamera.cs]
+	[27 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeDemos\Script\FlyOrMoveController.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeDemos\Script\FlyOrMoveController.cs]
+	[28 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeDemos\Script\TestMidiStream.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeDemos\Script\TestMidiStream.cs]
+	[29 / 30] from  [E:/NightClassDecompileRemastered/CF2-Data/Script-Backups/2026-01-03-12-55\Assets-After/\MidiPlayer\Demo\FreeDemos\Script\ExternalComponents\FlyingCamera.cs] to [E:/NightClassDecompileRemastered/Assets/\MidiPlayer\Demo\FreeDemos\Script\ExternalComponents\FlyingCamera.cs]
+
+Overwriting COMPLETED!

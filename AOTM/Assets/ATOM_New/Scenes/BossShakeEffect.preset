@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BossShakeEffect
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 3a9186865b343d44980c6470b3fb13cd, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[0]
+    value: Wall
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[1]
+    value: Floor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[2]
+    value: Ceiling
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[3]
+    value: TileFloorEn
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[4]
+    value: Carpet
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[5]
+    value: _Front
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[6]
+    value: _Side
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameFilters.Array.data[7]
+    value: TileFloor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shakeInterval
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shakeAngle
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shakeDuration
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enableColorChange
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colorTransitionSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: disappearDelayRange.x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: disappearDelayRange.y
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: disappearDuration
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enableDisappearColor
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enableShake
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enableDisappear
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxSimultaneousEffects
+    value: 114514
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
